@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mai1209
-- 👀 I’m interested in web development.
-- 🌱 I work with HTML, CSS, SASS, JS, React.Js, Git, Github... + 
+- 👀 I have a strong interest in web and mobile development
+- 🌱 I work with HTML, CSS, SASS, JS, React.Js,React Native, Git, Github... + 
 - 💞️ I’m looking to collaborate on some new project
-- 📫 How to reach me mairacoria1209@gmail.com 
+- 📫 How to reach me maidev1209@gmail.com
